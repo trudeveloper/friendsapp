@@ -1,5 +1,4 @@
-{
-  "friends": [
+[
     {
       "name": "Crash",
       "imagefile": "file01.png"
@@ -41,4 +40,3 @@
       "imagefile": "file10.png"
     }
   ]
-}
